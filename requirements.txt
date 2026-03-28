@@ -5,3 +5,4 @@ empiricaldist
 pandas
 scipy
 seaborn
+geopandas
