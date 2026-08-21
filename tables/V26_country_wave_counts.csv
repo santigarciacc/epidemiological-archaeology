@@ -1,0 +1,109 @@
+Country,Mortality_Time_Unit,Timing_Eligible,Wave_Count,Population,Baseline_Years,Coverage_Start,Coverage_End
+Albania,monthly,False,7,2877800.0,5,2020-02-01,2022-12-31
+Algeria,monthly,False,7,43851043.0,2,2020-02-01,2022-12-31
+Andorra,monthly,False,6,77265.0,5,2020-02-01,2021-11-26
+Antigua and Barbuda,monthly,False,8,97928.0,5,2020-02-01,2021-11-26
+Argentina,monthly,False,6,45195777.0,5,2020-02-01,2022-12-31
+Armenia,monthly,False,7,2963234.0,5,2020-02-01,2022-12-31
+Australia,weekly,True,18,25459700.0,5,2020-02-01,2022-12-31
+Austria,weekly,True,14,9006400.0,5,2020-02-01,2022-12-31
+Azerbaijan,monthly,False,11,10139175.0,5,2020-02-01,2022-12-31
+Bahamas,monthly,False,5,393248.0,5,2020-02-01,2021-11-26
+Barbados,monthly,False,13,287371.0,5,2020-02-01,2022-12-31
+Belarus,monthly,False,9,9449321.0,5,2020-02-01,2022-12-31
+Belgium,weekly,True,13,11492641.0,5,2020-02-01,2022-12-31
+Belize,monthly,False,10,397621.0,5,2020-02-01,2022-11-26
+Bolivia,monthly,False,5,11673029.0,5,2020-02-01,2021-12-27
+Bosnia,monthly,False,10,3280815.0,5,2020-02-01,2022-12-31
+Brazil,monthly,False,11,212559409.0,5,2020-02-01,2022-12-31
+Brunei,monthly,False,8,437483.0,5,2020-02-01,2022-12-31
+Bulgaria,weekly,True,12,6948445.0,5,2020-02-01,2022-12-31
+Cabo Verde,monthly,False,11,555988.0,5,2020-02-01,2022-11-26
+Canada,weekly,True,19,38246108.0,5,2020-02-01,2022-12-31
+Chile,weekly,True,18,19116209.0,4,2020-02-01,2022-12-31
+Colombia,weekly,True,13,50882884.0,5,2020-02-01,2022-12-31
+Costa Rica,monthly,False,9,5094114.0,5,2020-02-01,2022-12-31
+Croatia,weekly,True,15,4105268.0,5,2020-02-01,2022-12-31
+Cuba,monthly,False,10,11326616.0,5,2020-02-01,2022-12-31
+Cyprus,weekly,True,19,1207361.0,5,2020-02-01,2022-12-31
+Czechia,weekly,True,15,10708982.0,5,2020-02-01,2022-12-31
+Denmark,weekly,True,17,5837213.0,5,2020-02-01,2022-12-31
+Dominican Republic,monthly,False,6,10847904.0,5,2020-02-01,2022-12-31
+Ecuador,weekly,True,20,17643060.0,5,2020-02-01,2022-12-31
+Egypt,monthly,False,7,102334403.0,5,2020-02-01,2022-12-31
+Estonia,weekly,True,19,1326539.0,5,2020-02-01,2022-12-31
+Finland,weekly,True,17,5540718.0,5,2020-02-01,2022-12-31
+France,weekly,True,17,65249843.0,5,2020-02-01,2022-12-31
+Georgia,monthly,False,5,3989175.0,5,2020-02-01,2022-12-31
+Germany,weekly,True,14,83155031.0,5,2020-02-01,2022-12-31
+Greece,weekly,True,20,10423056.0,5,2020-02-01,2022-12-31
+Guatemala,weekly,True,15,17915567.0,5,2020-02-01,2022-12-31
+Hungary,weekly,True,15,9660350.0,5,2020-02-01,2022-12-31
+Iceland,weekly,True,21,341250.0,5,2020-02-01,2022-12-31
+Iran,weekly,True,13,83992953.0,5,2020-02-01,2022-09-16
+Ireland,weekly,True,16,4937796.0,5,2020-02-01,2022-12-31
+Israel,weekly,True,18,8655541.0,5,2020-02-01,2022-12-31
+Italy,weekly,True,16,60461828.0,5,2020-02-01,2022-12-31
+Jamaica,monthly,False,10,2961161.0,5,2020-02-01,2022-12-31
+Japan,monthly,False,11,126476458.0,5,2020-02-01,2022-12-31
+Jordan,monthly,False,6,10203140.0,4,2020-02-01,2022-12-31
+Kazakhstan,monthly,False,9,18776707.0,5,2020-02-01,2022-12-31
+Kosovo,monthly,False,9,1810366.0,5,2020-02-01,2022-12-31
+Kuwait,monthly,False,6,4270563.0,5,2020-02-01,2022-12-31
+Kyrgyzstan,monthly,False,9,6524191.0,5,2020-02-01,2022-12-31
+Latvia,weekly,True,20,1886202.0,5,2020-02-01,2022-12-31
+Lebanon,monthly,False,3,6825442.0,5,2020-02-01,2021-11-26
+Liechtenstein,monthly,False,10,38137.0,5,2020-02-01,2022-12-31
+Lithuania,weekly,True,18,2722291.0,5,2020-02-01,2022-12-31
+Luxembourg,weekly,True,20,625976.0,5,2020-02-01,2022-12-31
+Malaysia,monthly,False,8,32365998.0,5,2020-02-01,2022-12-31
+Maldives,monthly,False,7,540542.0,5,2020-02-01,2022-12-31
+Malta,weekly,True,21,441539.0,5,2020-02-01,2022-12-31
+Mauritius,monthly,False,12,1271767.0,5,2020-02-01,2022-12-31
+Mexico,weekly,True,12,127792286.0,5,2020-02-01,2022-12-31
+Moldova,monthly,False,8,4027690.0,5,2020-02-01,2022-12-31
+Monaco,monthly,False,13,39244.0,5,2020-02-01,2022-11-26
+Mongolia,monthly,False,7,3278292.0,5,2020-02-01,2022-12-31
+Montenegro,weekly,True,16,628062.0,5,2020-02-01,2022-12-31
+Namibia,monthly,False,4,2540916.0,5,2020-02-01,2021-11-26
+Netherlands,weekly,True,14,17134873.0,5,2020-02-01,2022-12-31
+New Zealand,weekly,True,18,4822233.0,5,2020-02-01,2022-12-31
+Nicaragua,monthly,False,6,6624554.0,5,2020-02-01,2022-12-31
+North Macedonia,monthly,False,9,2083380.0,5,2020-02-01,2022-12-31
+Norway,weekly,True,12,5421242.0,5,2020-02-01,2022-12-31
+Oman,monthly,False,5,5106622.0,5,2020-02-01,2022-12-31
+Palestine,monthly,False,4,5101416.0,2,2020-02-01,2021-11-26
+Panama,monthly,False,6,4314768.0,5,2020-02-01,2021-09-26
+Paraguay,monthly,False,7,7132530.0,5,2020-02-01,2022-12-31
+Peru,weekly,True,10,32971846.0,3,2020-02-01,2022-09-16
+Philippines,monthly,False,6,109581085.0,5,2020-02-01,2022-12-31
+Poland,weekly,True,16,37846605.0,5,2020-02-01,2022-12-31
+Portugal,weekly,True,17,10196707.0,5,2020-02-01,2022-12-31
+Qatar,monthly,False,3,2881060.0,5,2020-02-01,2022-12-31
+Romania,weekly,True,11,19237682.0,5,2020-02-01,2022-12-31
+Russia,monthly,False,8,145934460.0,5,2020-02-01,2022-12-31
+Saint Kitts and Nevis,monthly,False,9,53192.0,4,2020-02-01,2022-12-31
+Saint Vincent and the Grenadines,monthly,False,8,110947.0,5,2020-02-01,2021-11-26
+San Marino,monthly,False,11,33938.0,5,2020-02-01,2022-12-31
+Serbia,monthly,False,6,8737370.0,5,2020-02-01,2022-12-31
+Seychelles,monthly,False,9,98340.0,5,2020-02-01,2022-12-31
+Singapore,monthly,False,9,5850343.0,5,2020-02-01,2022-12-31
+Slovakia,weekly,True,16,5434712.0,5,2020-02-01,2022-12-31
+Slovenia,weekly,True,18,2078932.0,5,2020-02-01,2022-12-31
+South Africa,weekly,True,12,59308690.0,5,2020-02-01,2022-12-31
+South Korea,weekly,True,15,51269183.0,5,2020-02-01,2022-12-31
+Spain,weekly,True,17,46754783.0,5,2020-02-01,2022-12-31
+Suriname,monthly,False,11,586634.0,5,2020-02-01,2022-11-26
+Sweden,weekly,True,12,10099270.0,5,2020-02-01,2022-12-31
+Switzerland,weekly,True,12,8654618.0,5,2020-02-01,2022-12-31
+Taiwan,monthly,False,9,23816775.0,5,2020-02-01,2022-12-31
+Tajikistan,monthly,False,4,9537642.0,5,2020-02-01,2022-12-31
+Thailand,monthly,False,10,69799978.0,5,2020-02-01,2022-12-31
+Tunisia,monthly,False,8,11818618.0,5,2020-02-01,2022-12-31
+Turkey,monthly,False,9,84339067.0,5,2020-02-01,2022-12-31
+Ukraine,monthly,False,5,43733759.0,5,2020-02-01,2021-12-27
+United Arab Emirates,monthly,False,5,9890400.0,2,2020-02-01,2022-12-31
+United Kingdom,weekly,True,14,67886004.0,5,2020-02-01,2022-12-31
+United States,weekly,True,13,329466283.0,5,2020-02-01,2022-12-31
+Uruguay,monthly,False,8,3473727.0,5,2020-02-01,2022-12-31
+Uzbekistan,monthly,False,8,33469199.0,5,2020-02-01,2022-12-31

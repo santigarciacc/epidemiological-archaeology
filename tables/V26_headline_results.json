@@ -1,0 +1,27 @@
+{
+  "simulation": {
+    "replicates_per_scenario": 240,
+    "ideal_weekly_peak_recovery_pct": 99.86111111111111,
+    "ideal_weekly_exact_wave_count_pct": 98.75,
+    "ideal_weekly_median_abs_peak_error_days": 10.0
+  },
+  "covid": {
+    "national_waves": 1214,
+    "weekly_waves": 728,
+    "monthly_waves": 486,
+    "matched_weekly_waves": 694,
+    "median_abs_lag_2020": 10.5,
+    "median_abs_lag_2021_pre_omicron": 10.75,
+    "median_abs_lag_omicron": 8.0,
+    "paired_change_omicron_minus_2020": -1.75,
+    "paired_change_ci95": [
+      -4.25,
+      1.5
+    ]
+  },
+  "historical": {
+    "source_defined_intervals": 10,
+    "primary_infeasible_count": 0,
+    "any_scenario_infeasible_count": 2
+  }
+}

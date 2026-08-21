@@ -1,0 +1,128 @@
+Country,Status,Reason,Mortality_Time_Unit,Timing_Eligible
+Albania,included,,monthly,False
+Algeria,included,,monthly,False
+Andorra,included,,monthly,False
+Antigua and Barbuda,included,,monthly,False
+Argentina,included,,monthly,False
+Armenia,included,,monthly,False
+Aruba,excluded,No national/Admin0 JHU linkage,,False
+Australia,included,,weekly,True
+Austria,included,,weekly,True
+Azerbaijan,included,,monthly,False
+Bahamas,included,,monthly,False
+Barbados,included,,monthly,False
+Belarus,included,,monthly,False
+Belgium,included,,weekly,True
+Belize,included,,monthly,False
+Bermuda,excluded,No national/Admin0 JHU linkage,,False
+Bhutan,excluded,Fewer than two pre-2020 baseline years,,False
+Bolivia,included,,monthly,False
+Bosnia,included,,monthly,False
+Brazil,included,,monthly,False
+Brunei,included,,monthly,False
+Bulgaria,included,,weekly,True
+Cabo Verde,included,,monthly,False
+Canada,included,,weekly,True
+Chile,included,,weekly,True
+Colombia,included,,weekly,True
+Costa Rica,included,,monthly,False
+Croatia,included,,weekly,True
+Cuba,included,,monthly,False
+Cyprus,included,,weekly,True
+Czechia,included,,weekly,True
+Denmark,included,,weekly,True
+Dominican Republic,included,,monthly,False
+Ecuador,included,,weekly,True
+Egypt,included,,monthly,False
+El Salvador,excluded,Insufficient pandemic mortality observations,,False
+Estonia,included,,weekly,True
+Faroe Islands,excluded,No national/Admin0 JHU linkage,,False
+Fiji,excluded,Fewer than two pre-2020 baseline years,,False
+Finland,included,,weekly,True
+France,included,,weekly,True
+French Guiana,excluded,No national/Admin0 JHU linkage,,False
+French Polynesia,excluded,No national/Admin0 JHU linkage,,False
+Georgia,included,,monthly,False
+Germany,included,,weekly,True
+Gibraltar,excluded,No national/Admin0 JHU linkage,,False
+Greece,included,,weekly,True
+Greenland,excluded,No national/Admin0 JHU linkage,,False
+Guadeloupe,excluded,No national/Admin0 JHU linkage,,False
+Guatemala,included,,weekly,True
+Hong Kong,excluded,No national/Admin0 JHU linkage,,False
+Hungary,included,,weekly,True
+Iceland,included,,weekly,True
+Iran,included,,weekly,True
+Ireland,included,,weekly,True
+Israel,included,,weekly,True
+Italy,included,,weekly,True
+Jamaica,included,,monthly,False
+Japan,included,,monthly,False
+Jordan,included,,monthly,False
+Kazakhstan,included,,monthly,False
+Kosovo,included,,monthly,False
+Kuwait,included,,monthly,False
+Kyrgyzstan,included,,monthly,False
+Latvia,included,,weekly,True
+Lebanon,included,,monthly,False
+Liechtenstein,included,,monthly,False
+Lithuania,included,,weekly,True
+Luxembourg,included,,weekly,True
+Macao,excluded,No national/Admin0 JHU linkage,,False
+Malaysia,included,,monthly,False
+Maldives,included,,monthly,False
+Malta,included,,weekly,True
+Martinique,excluded,No national/Admin0 JHU linkage,,False
+Mauritius,included,,monthly,False
+Mayotte,excluded,No national/Admin0 JHU linkage,,False
+Mexico,included,,weekly,True
+Moldova,included,,monthly,False
+Monaco,included,,monthly,False
+Mongolia,included,,monthly,False
+Montenegro,included,,weekly,True
+Namibia,included,,monthly,False
+Netherlands,included,,weekly,True
+New Caledonia,excluded,No national/Admin0 JHU linkage,,False
+New Zealand,included,,weekly,True
+Nicaragua,included,,monthly,False
+North Macedonia,included,,monthly,False
+Norway,included,,weekly,True
+Oman,included,,monthly,False
+Palestine,included,,monthly,False
+Panama,included,,monthly,False
+Paraguay,included,,monthly,False
+Peru,included,,weekly,True
+Philippines,included,,monthly,False
+Poland,included,,weekly,True
+Portugal,included,,weekly,True
+Puerto Rico,excluded,No national/Admin0 JHU linkage,,False
+Qatar,included,,monthly,False
+Romania,included,,weekly,True
+Russia,included,,monthly,False
+Réunion,excluded,No national/Admin0 JHU linkage,,False
+Saint Kitts and Nevis,included,,monthly,False
+Saint Vincent and the Grenadines,included,,monthly,False
+San Marino,included,,monthly,False
+Serbia,included,,monthly,False
+Seychelles,included,,monthly,False
+Singapore,included,,monthly,False
+Slovakia,included,,weekly,True
+Slovenia,included,,weekly,True
+South Africa,included,,weekly,True
+South Korea,included,,weekly,True
+Spain,included,,weekly,True
+Suriname,included,,monthly,False
+Sweden,included,,weekly,True
+Switzerland,included,,weekly,True
+Taiwan,included,,monthly,False
+Tajikistan,included,,monthly,False
+Thailand,included,,monthly,False
+Transnistria,excluded,No national/Admin0 JHU linkage,,False
+Tunisia,included,,monthly,False
+Turkey,included,,monthly,False
+Ukraine,included,,monthly,False
+United Arab Emirates,included,,monthly,False
+United Kingdom,included,,weekly,True
+United States,included,,weekly,True
+Uruguay,included,,monthly,False
+Uzbekistan,included,,monthly,False
